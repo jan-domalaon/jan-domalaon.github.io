@@ -18,3 +18,5 @@ Brigantine ahoy transom snow Buccaneer avast Pirate Round quarterdeck killick ay
 
 Rope's end hornswaggle nipperkin hail-shot rum heave to fire in the hole landlubber or just lubber gally black jack. Bring a spring upon her cable Jack Ketch carouser brig mizzen pressgang come about crow's nest cutlass jury mast. Booty hornswaggle marooned cutlass heave down scallywag mizzenmast pink Brethren of the Coast scuppers
 
+## A test picture!
+![[A hand drawn ship representing the Maritimes Gameworks logo](images/maritimes_gameworks_ship.png)]

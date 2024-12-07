@@ -11,7 +11,7 @@ paginate = 5
 
 [params]
   avatarAltText = "avatar"
-  avatarSize = "size-m"
+  avatarSize = "size-s"
   avatarURL = "/images/avatar.webp"
 
   description = ""
@@ -30,7 +30,10 @@ paginate = 5
   socialIcons = [
     {name = "twitter", url = "https://x.com/homealone_specs"},
     {name = "github", url = "https://github.com/jan-domalaon"},
-    {name = "email", url = "mailto:janbot_sec@protonmail.com"},
+    {name = "soundcloud", url = "https://soundcloud.com/skrumpti0uzz"},
+    {name = "itchdotio", url = "https://maritimes-gameworks.itch.io/"},
+    {name = "linktree", url = "https://linktr.ee/maybejan"},
+    {name = "email", url = "mailto:janbot_sec@protonmail.com"}
   ]
 
   # show selector to switch language
@@ -107,7 +110,7 @@ paginate = 5
   [[menu.main]]
     identifier = "buymeacoffee"
     pre = "<span data-feather='coffee'></span>"
-    url = "https://www.ko-fi.com/homealone_specs"
+    url = "https://ko-fi.com/jan_bot"
     weight = 6
 
   [[menu.main]]
