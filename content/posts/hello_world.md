@@ -11,7 +11,7 @@ showTableOfContents: true
 # Description
 Test post for setting up the blog. Just making sure that everything is working.
 
-## Filler pirate text
+## Filler pirate lorem ipsum text
 Spanker spyglass bilged on her anchor trysail avast scallywag dance the hempen jig shrouds killick lugger. Pink swab tender piracy spyglass scuttle loot rum keel sheet. Lanyard Barbary Coast league scurvy lad run a rig pressgang interloper splice the main brace gally.
 
 Brigantine ahoy transom snow Buccaneer avast Pirate Round quarterdeck killick aye. Rigging pirate capstan hogshead lass swab deadlights aft splice the main brace to go on account. Grog hardtack Jolly Roger bilged on her anchor nipperkin gun lee marooned Buccaneer lanyard.
@@ -19,4 +19,4 @@ Brigantine ahoy transom snow Buccaneer avast Pirate Round quarterdeck killick ay
 Rope's end hornswaggle nipperkin hail-shot rum heave to fire in the hole landlubber or just lubber gally black jack. Bring a spring upon her cable Jack Ketch carouser brig mizzen pressgang come about crow's nest cutlass jury mast. Booty hornswaggle marooned cutlass heave down scallywag mizzenmast pink Brethren of the Coast scuppers
 
 ## A test picture!
-![[A hand drawn ship representing the Maritimes Gameworks logo](images/maritimes_gameworks_ship.png)]
+![Maritimes gameworks ship](/images/hello_world/ship.png "Test image")
