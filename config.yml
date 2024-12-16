@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl:
 defaultContentLanguage: "en"
 languageCode: "en-us"
 enableEmoji: true
