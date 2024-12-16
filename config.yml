@@ -1,58 +1,58 @@
-baseurl = ""
-defaultContentLanguage = "en"
-languageCode = "en-us"
-enableEmoji = true
-enableRobotsTXT = true
+baseurl : ""
+defaultContentLanguage : "en"
+languageCode : "en-us"
+enableEmoji : true
+enableRobotsTXT : true
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "gokarna"
-title = "Homealone Specifications"
-paginate = 5
+theme : "gokarna"
+title : "Homealone Specifications"
+paginate : 5
 
 [params]
-  avatarAltText = "avatar"
-  avatarSize = "size-s"
-  avatarURL = "/images/avatar.webp"
+  avatarAltText : "avatar"
+  avatarSize : "size-s"
+  avatarURL : "/images/avatar.webp"
 
-  description = ""
-  footer = "Deo gratis."
-  showBackToTopButton = true
+  description : ""
+  footer : "Deo gratis."
+  showBackToTopButton : true
 
-  accentColor="#E2C290"
+  accentColor:"#E2C290"
 
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "content/posts"
+  contentTypeName : "content/posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems : 2
 
-  socialIcons = [
-    {name = "twitter", url = "https://x.com/homealone_specs"},
-    {name = "github", url = "https://github.com/jan-domalaon"},
-    {name = "soundcloud", url = "https://soundcloud.com/skrumpti0uzz"},
-    {name = "itchdotio", url = "https://maritimes-gameworks.itch.io/"},
-    {name = "linktree", url = "https://linktr.ee/maybejan"},
-    {name = "email", url = "mailto:janbot_sec@protonmail.com"}
+  socialIcons : [
+    {name : "twitter", url : "https://x.com/homealone_specs"},
+    {name : "github", url : "https://github.com/jan-domalaon"},
+    {name : "soundcloud", url : "https://soundcloud.com/skrumpti0uzz"},
+    {name : "itchdotio", url : "https://maritimes-gameworks.itch.io/"},
+    {name : "linktree", url : "https://linktr.ee/maybejan"},
+    {name : "email", url : "mailto:janbot_sec@protonmail.com"}
   ]
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector : false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme : false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme : false
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
   # With this option you don't have to put the `cover` param in a front-matter.
-  autoCover = true
+  autoCover : true
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated : false
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -73,58 +73,58 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  creator : ""
+  site : ""
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    pre = "<span data-feather='home'></span>"
-    url = "/"
-    weight = 1
+    name : "Home"
+    pre : "<span data-feather='home'></span>"
+    url : "/"
+    weight : 1
 
   [[menu.main]]
-    name = "Posts"
-    pre = "<span data-feather='book'></span>"
-    url = "/posts/"
-    weight = 2
+    name : "Posts"
+    pre : "<span data-feather='book'></span>"
+    url : "/posts/"
+    weight : 2
 
   [[menu.main]]
     name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
-    weight = 3
+    pre : "<span data-feather='code'></span>"
+    url : "/projects/"
+    weight : 3
 
   [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
-    weight = 4
+    name : "Tags"
+    pre : "<span data-feather='tag'></span>"
+    url : "/tags/"
+    weight : 4
 
   [[menu.main]]
-    identifier = "github"
-    pre = "<span data-feather='github'></span>"
-    url = "https://github.com/jan-domalaon"
-    weight = 5
+    identifier : "github"
+    pre : "<span data-feather='github'></span>"
+    url : "https://github.com/jan-domalaon"
+    weight : 5
 
   [[menu.main]]
-    identifier = "buymeacoffee"
-    pre = "<span data-feather='coffee'></span>"
-    url = "https://ko-fi.com/jan_bot"
-    weight = 6
+    identifier : "buymeacoffee"
+    pre : "<span data-feather='coffee'></span>"
+    url : "https://ko-fi.com/jan_bot"
+    weight : 6
 
   [[menu.main]]
-    identifier = "rss"
-    pre = "<span data-feather='rss'></span>"
-    url = "/index.xml"
-    weight = 7
+    identifier : "rss"
+    pre : "<span data-feather='rss'></span>"
+    url : "/index.xml"
+    weight : 7
 
 [markup]
   [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 4
-    ordered = false
+    startLevel : 1
+    endLevel : 4
+    ordered : false
 
 [minify]
-    minifyOutput = true
+    minifyOutput : true
 
