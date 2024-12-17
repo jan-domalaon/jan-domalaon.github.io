@@ -1,4 +1,4 @@
-baseurl:
+baseURL: "https://jan-domalaon.github.io/"
 defaultContentLanguage: "en"
 languageCode: "en-us"
 enableEmoji: true
